@@ -58,19 +58,19 @@
     "url": "http://demo.atnsoft.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/demo.atnsoft.co.kr.ico",
     "slug": "demo",
-    "status": "down",
-    "uptime": "34.38%",
-    "uptimeDay": "34.38%",
-    "uptimeWeek": "34.38%",
-    "uptimeMonth": "34.38%",
-    "uptimeYear": "34.38%",
-    "time": 683,
-    "timeDay": 683,
-    "timeWeek": 683,
-    "timeMonth": 683,
-    "timeYear": 683,
+    "status": "up",
+    "uptime": "29.79%",
+    "uptimeDay": "29.79%",
+    "uptimeWeek": "29.79%",
+    "uptimeMonth": "29.79%",
+    "uptimeYear": "29.79%",
+    "time": 661,
+    "timeDay": 661,
+    "timeWeek": 661,
+    "timeMonth": 661,
+    "timeYear": 661,
     "dailyMinutesDown": {
-      "2023-06-15": 82
+      "2023-06-15": 102
     }
   }
 ]

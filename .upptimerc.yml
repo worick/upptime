@@ -7,7 +7,11 @@ sites:
     url: https://www.healingtour.com
   - name: Jhferry
     url: https://www.jhferry.com
-
+  - name: ATNSoft
+    url: http://atnsoft.co.kr/
+  - name: DEMO
+    url: http://demo.atnsoft.co.kr
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there

@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Web Status"
-  introMessage: 서버상태확인
+  introMessage: 서버상태확인(ATN)
   navbar:
     - title: Status
       href: /

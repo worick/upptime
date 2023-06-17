@@ -4,9 +4,9 @@
     "url": "https://www.healingtour.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.healingtour.com.ico",
     "slug": "healing-tour",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1333,
     "timeMonth": 1333,
     "timeYear": 1333,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-17": 0
+    }
   },
   {
     "name": "Jhferry",
@@ -59,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.atnsoft.co.kr.ico",
     "slug": "demo",
     "status": "up",
-    "uptime": "96.47%",
+    "uptime": "97.17%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.47%",
-    "uptimeMonth": "96.47%",
-    "uptimeYear": "96.47%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
     "time": 622,
     "timeDay": 459,
     "timeWeek": 622,

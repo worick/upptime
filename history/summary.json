@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/atnsoft.co.kr.ico",
     "slug": "atn-soft",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.83%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 711,
     "timeDay": 703,
     "timeWeek": 668,
     "timeMonth": 711,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2023-06-26": 1
+      "2023-06-26": 27
     }
   },
   {
@@ -60,7 +60,7 @@
     "url": "http://demo.atnsoft.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/demo.atnsoft.co.kr.ico",
     "slug": "demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -72,6 +72,7 @@
     "timeMonth": 605,
     "timeYear": 605,
     "dailyMinutesDown": {
+      "2023-06-26": 0,
       "2023-06-15": 102
     }
   }

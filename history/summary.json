@@ -22,9 +22,9 @@
     "url": "https://www.jhferry.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhferry.com.ico",
     "slug": "jhferry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 958,
     "timeMonth": 1048,
     "timeYear": 1058,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-18": 0
+    }
   },
   {
     "name": "ATNSoft",

@@ -22,19 +22,19 @@
     "url": "https://www.jhferry.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhferry.com.ico",
     "slug": "jhferry",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1058,
-    "timeDay": 1048,
-    "timeWeek": 958,
-    "timeMonth": 1048,
-    "timeYear": 1058,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1054,
+    "timeDay": 976,
+    "timeWeek": 952,
+    "timeMonth": 1043,
+    "timeYear": 1054,
     "dailyMinutesDown": {
-      "2023-07-18": 0
+      "2023-07-18": 8
     }
   },
   {

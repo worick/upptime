@@ -9,6 +9,8 @@ sites:
     url: https://www.jhferry.com
   - name: ATNSoft
     url: http://atnsoft.co.kr/
+  - name: 대저해운
+    url: https://daezer.com/
   - name: DEMO
     url: http://demo.atnsoft.co.kr
     

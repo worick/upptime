@@ -4,11 +4,11 @@
     "url": "https://www.healingtour.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.healingtour.com.ico",
     "slug": "healing-tour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.92%",
     "time": 1517,
     "timeDay": 880,
@@ -16,7 +16,7 @@
     "timeMonth": 1131,
     "timeYear": 1517,
     "dailyMinutesDown": {
-      "2023-10-12": 0,
+      "2023-10-12": 9,
       "2023-10-03": 46,
       "2023-10-01": 20,
       "2023-09-17": 31,
@@ -29,10 +29,10 @@
     "url": "https://www.jhferry.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhferry.com.ico",
     "slug": "jhferry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1107,
@@ -41,6 +41,7 @@
     "timeMonth": 1033,
     "timeYear": 1107,
     "dailyMinutesDown": {
+      "2023-10-12": 1,
       "2023-08-25": 17
     }
   },
@@ -49,9 +50,9 @@
     "url": "http://atnsoft.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/atnsoft.co.kr.ico",
     "slug": "atn-soft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -61,6 +62,7 @@
     "timeMonth": 719,
     "timeYear": 924,
     "dailyMinutesDown": {
+      "2023-10-12": 0,
       "2023-06-26": 44
     }
   },

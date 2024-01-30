@@ -54,9 +54,9 @@
     "url": "http://atnsoft.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/atnsoft.co.kr.ico",
     "slug": "atn-soft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -66,6 +66,7 @@
     "timeMonth": 1415,
     "timeYear": 1080,
     "dailyMinutesDown": {
+      "2024-01-30": 0,
       "2023-10-12": 17,
       "2023-06-26": 44
     }

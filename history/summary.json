@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.healingtour.com.ico",
     "slug": "healing-tour",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1260,
-    "timeDay": 1013,
-    "timeWeek": 1434,
-    "timeMonth": 1517,
-    "timeYear": 1221,
+    "timeDay": 1180,
+    "timeWeek": 1451,
+    "timeMonth": 1524,
+    "timeYear": 1222,
     "dailyMinutesDown": {
       "2024-10-04": 22
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1065,
-    "timeDay": 1099,
-    "timeWeek": 1096,
+    "timeDay": 1061,
+    "timeWeek": 1082,
     "timeMonth": 1033,
-    "timeYear": 1037,
+    "timeYear": 1035,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1015,
-    "timeDay": 969,
-    "timeWeek": 900,
-    "timeMonth": 909,
-    "timeYear": 927,
+    "timeDay": 1169,
+    "timeWeek": 925,
+    "timeMonth": 916,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2024-09-27": 33
     }
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 561,
-    "timeDay": 566,
-    "timeWeek": 566,
-    "timeMonth": 587,
-    "timeYear": 561,
+    "timeDay": 546,
+    "timeWeek": 556,
+    "timeMonth": 559,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2024-09-27": 32
     }

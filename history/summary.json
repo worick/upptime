@@ -4,18 +4,19 @@
     "url": "https://www.healingtour.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.healingtour.com.ico",
     "slug": "healing-tour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1240,
+    "time": 1241,
     "timeDay": 987,
     "timeWeek": 966,
     "timeMonth": 1024,
     "timeYear": 1186,
     "dailyMinutesDown": {
+      "2025-04-07": 0,
       "2024-10-04": 22
     }
   },

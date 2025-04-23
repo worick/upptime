@@ -42,10 +42,10 @@
     "url": "https://atnsoft.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/atnsoft.co.kr.ico",
     "slug": "atn-soft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 971,
@@ -54,6 +54,7 @@
     "timeMonth": 884,
     "timeYear": 923,
     "dailyMinutesDown": {
+      "2025-04-23": 2,
       "2024-09-27": 33
     }
   },
@@ -62,9 +63,9 @@
     "url": "http://demo.atnsoft.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/demo.atnsoft.co.kr.ico",
     "slug": "demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -74,6 +75,7 @@
     "timeMonth": 592,
     "timeYear": 564,
     "dailyMinutesDown": {
+      "2025-04-23": 0,
       "2024-09-27": 32
     }
   }

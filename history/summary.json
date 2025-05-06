@@ -26,17 +26,17 @@
     "slug": "jhferry",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1056,
+    "time": 1055,
     "timeDay": 966,
     "timeWeek": 1103,
     "timeMonth": 1012,
-    "timeYear": 1023,
+    "timeYear": 1022,
     "dailyMinutesDown": {
-      "2025-05-06": 10
+      "2025-05-06": 0
     }
   },
   {

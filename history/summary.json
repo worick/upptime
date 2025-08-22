@@ -4,10 +4,10 @@
     "url": "https://www.healingtour.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.healingtour.com.ico",
     "slug": "healing-tour",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1157,
@@ -16,6 +16,7 @@
     "timeMonth": 788,
     "timeYear": 1136,
     "dailyMinutesDown": {
+      "2025-08-22": 2,
       "2025-06-09": 62,
       "2024-10-04": 22
     }
@@ -25,11 +26,11 @@
     "url": "https://www.jhferry.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jhferry.com.ico",
     "slug": "jhferry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.83%",
     "time": 1106,
     "timeDay": 1054,
@@ -37,6 +38,7 @@
     "timeMonth": 1218,
     "timeYear": 1129,
     "dailyMinutesDown": {
+      "2025-08-22": 1,
       "2025-08-08": 130,
       "2025-06-17": 394,
       "2025-06-13": 60,
@@ -50,10 +52,10 @@
     "url": "https://atnsoft.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/atnsoft.co.kr.ico",
     "slug": "atn-soft",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 924,
@@ -62,6 +64,7 @@
     "timeMonth": 921,
     "timeYear": 925,
     "dailyMinutesDown": {
+      "2025-08-22": 1,
       "2025-04-23": 51,
       "2024-09-27": 33
     }
@@ -71,9 +74,9 @@
     "url": "http://demo.atnsoft.co.kr",
     "icon": "https://icons.duckduckgo.com/ip3/demo.atnsoft.co.kr.ico",
     "slug": "demo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -83,6 +86,7 @@
     "timeMonth": 540,
     "timeYear": 566,
     "dailyMinutesDown": {
+      "2025-08-22": 0,
       "2025-04-28": 29,
       "2025-04-23": 50,
       "2024-09-27": 32
